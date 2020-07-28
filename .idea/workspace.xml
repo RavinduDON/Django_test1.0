@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e00cda51-fd3c-4059-bca4-302815eae98e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorials/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorials/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorials/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +96,7 @@
       <workItem from="1595864197500" duration="5538000" />
       <workItem from="1595928489715" duration="185000" />
       <workItem from="1595928686510" duration="2607000" />
-      <workItem from="1595953470000" duration="599000" />
+      <workItem from="1595953470000" duration="3243000" />
     </task>
     <servers />
   </component>
